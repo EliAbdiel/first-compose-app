@@ -10,10 +10,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-<<<<<<< HEAD
-=======
 import com.eliabdiel.myfirstcomposeapp.components.layout.MyBox
->>>>>>> 856e483 (add Box layout)
 import com.eliabdiel.myfirstcomposeapp.login.Greeting
 import com.eliabdiel.myfirstcomposeapp.ui.theme.MyFirstComposeAppTheme
 
@@ -24,18 +21,15 @@ class MainActivity : ComponentActivity() {
         setContent {
             MyFirstComposeAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-<<<<<<< HEAD
                     Greeting(
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
-=======
 //                    Greeting(
 //                        name = "Android",
 //                        modifier = Modifier.padding(innerPadding)
 //                    )
                     MyBox()
->>>>>>> 856e483 (add Box layout)
                 }
             }
         }
