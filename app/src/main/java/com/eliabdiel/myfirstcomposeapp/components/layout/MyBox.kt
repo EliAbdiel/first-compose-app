@@ -1,7 +1,5 @@
 package com.eliabdiel.myfirstcomposeapp.components.layout
 
-<<<<<<< HEAD
-=======
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
@@ -31,4 +29,3 @@ fun MyBox() {
         }
     }
 }
->>>>>>> 856e483 (add Box layout)
