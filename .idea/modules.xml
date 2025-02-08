@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFirstComposeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFirstComposeApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstComposeApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstComposeApp.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstComposeApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstComposeApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/first-compose-app.MyFirstComposeApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
