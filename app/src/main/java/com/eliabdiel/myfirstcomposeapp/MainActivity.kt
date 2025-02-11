@@ -10,6 +10,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.eliabdiel.myfirstcomposeapp.components.layout.ExerciseTwo
 // import com.eliabdiel.myfirstcomposeapp.components.layout.ExerciseOne
 import com.eliabdiel.myfirstcomposeapp.components.layout.MyBasicConstrainLayout
 // import com.eliabdiel.myfirstcomposeapp.components.layout.MyBox
@@ -34,7 +35,8 @@ class MainActivity : ComponentActivity() {
                     // MyRow(modifier = Modifier.padding(innerPadding))
                     // MyComplexLayout(modifier = Modifier.padding(innerPadding))
                     // ExerciseOne(modifier = Modifier.padding(innerPadding))
-                    MyBasicConstrainLayout(modifier = Modifier.padding(innerPadding))
+                    // MyBasicConstrainLayout(modifier = Modifier.padding(innerPadding))
+                    ExerciseTwo(modifier = Modifier.padding(innerPadding))
                 }
             }
         }

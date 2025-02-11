@@ -17,27 +17,27 @@ fun MyBasicConstrainLayout(modifier: Modifier = Modifier) {
     ConstraintLayout(modifier = modifier.fillMaxSize()) {
         val (boxRed, boxGray, boxGreen, boxMagenta, boxYellow) = createRefs()
 
-        Box(Modifier.size(150.dp).background(Color.Red).constrainAs(boxRed){
+        Box(Modifier.size(75.dp).background(Color.Red).constrainAs(boxRed){
             top.linkTo(boxYellow.bottom)
             start.linkTo(boxYellow.end)
         })
 
-        Box(Modifier.size(150.dp).background(Color.Gray).constrainAs(boxGray){
+        Box(Modifier.size(75.dp).background(Color.Gray).constrainAs(boxGray){
             top.linkTo(boxYellow.bottom)
             end.linkTo(boxYellow.start)
         })
 
-        Box(Modifier.size(150.dp).background(Color.Green).constrainAs(boxGreen){
+        Box(Modifier.size(75.dp).background(Color.Green).constrainAs(boxGreen){
             bottom.linkTo(boxYellow.top)
             start.linkTo(boxYellow.end)
         })
 
-        Box(Modifier.size(150.dp).background(Color.Magenta).constrainAs(boxMagenta){
+        Box(Modifier.size(75.dp).background(Color.Magenta).constrainAs(boxMagenta){
             bottom.linkTo(boxYellow.top)
             end.linkTo(boxYellow.start)
         })
 
-        Box(Modifier.size(150.dp).background(Color.Yellow).constrainAs(boxYellow){
+        Box(Modifier.size(75.dp).background(Color.Yellow).constrainAs(boxYellow){
             bottom.linkTo(parent.bottom)
             end.linkTo(parent.end)
             top.linkTo(parent.top)
