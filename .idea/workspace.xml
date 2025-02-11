@@ -9,8 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ab7890a-f947-4182-9747-ac913790004e" name="Changes" comment="add basic ConstrainLayout to Layouts">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eliabdiel/myfirstcomposeapp/components/layout/ExerciseTwo.kt" afterDir="false" />
+    <list default="true" id="6ab7890a-f947-4182-9747-ac913790004e" name="Changes" comment="Ejercicio 2 constraint layout basico">
       <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
@@ -19,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eliabdiel/myfirstcomposeapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eliabdiel/myfirstcomposeapp/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eliabdiel/myfirstcomposeapp/components/layout/MyConstrainLayout.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eliabdiel/myfirstcomposeapp/components/layout/MyConstrainLayout.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739202369733</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio 2 constraint layout basico">
+      <option name="closed" value="true" />
+      <created>1739235780647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739235780647</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +265,7 @@
     <MESSAGE value="Ejercicio 1 Row, Column and Box" />
     <MESSAGE value="add Spacer to Layouts" />
     <MESSAGE value="add basic ConstrainLayout to Layouts" />
-    <option name="LAST_COMMIT_MESSAGE" value="add basic ConstrainLayout to Layouts" />
+    <MESSAGE value="Ejercicio 2 constraint layout basico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2 constraint layout basico" />
   </component>
 </project>
